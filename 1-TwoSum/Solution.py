@@ -3,8 +3,6 @@ class Solution:
         visitedElements  = {}
         for number  in range(0,len(nums)):
             if nums[number] in visitedElements:
-                return [thing[nums[el:em]],elem]
+                return [visitedElements[nums[number]],number]
             else:
-                thing[target-nums[elem]] = elem
-
-
+                visitedElements[target-nums[number]] = number
