@@ -10,7 +10,7 @@ Name | Solutions | Explanation
  Best Time to Buy and Sell Stock | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.java) | |
  Contains Duplicate | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.py) | |
  Product of Array Except Self | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.java) | |
- Maximum Subarray | | |
+ Maximum Subarray |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.java) | |
  Maximum Product Subarray | |  |
  Find Minimum in Rotated Sorted Array | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/153-MinSortedArr/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/153-MinSortedArr/Solution.java) | |
  Search in Rotated Sorted Array | | |
