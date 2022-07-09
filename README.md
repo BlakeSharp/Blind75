@@ -7,8 +7,8 @@ My solutions and explanations for the [Blind 75 Problems](https://leetcode.com/d
 Name | Solutions | Explanation
  -- | -- | -- |
  Two Sum | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.cpp) | |
- Best Time to Buy and Sell Stock | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.java) | |
- Contains Duplicate | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.py) | |
+ Best Time to Buy and Sell Stock | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.cpp) | |
+ Contains Duplicate | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.py) [🐍2](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution2.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.java)| |
  Product of Array Except Self | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.java) | |
  Maximum Subarray |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.java) | |
  Maximum Product Subarray | |  |
@@ -66,7 +66,7 @@ Meeting Rooms II  | | |
 ## Linked List
 Name | Solutions | Explinations
  -- | -- | -- |
-Reverse a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Iterative.py) | |  
+Reverse a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Iterative.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Solution.cpp)| |  
 Detect Cycle in a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/141-LinkedListCycle/Solution.py) | | 
 Merge Two Sorted Lists | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/21-MergeTwoSortedLists/Solution.py) | | 
 Merge K Sorted Lists | | | 
