@@ -6,16 +6,16 @@ My solutions and explanations for the [Blind 75 Problems](https://leetcode.com/d
 ## Array
 Name | Solutions | Explanation
  -- | -- | -- |
- Two Sum | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/1-TwoSum/Solution.cpp) | |
+ Two Sum | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.cpp) | |
  Best Time to Buy and Sell Stock | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.cpp) | |
  Contains Duplicate | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.py) [🐍2](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution2.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/217-ContainsDuplicate/Solution.java)| |
  Product of Array Except Self | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/238-ProductExceptSelf/Solution.cpp)| |
- Maximum Subarray |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/53-MaxSubarray/Solution.java) | |
+ Maximum Subarray |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/053-MaxSubarray/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/053-MaxSubarray/Solution.java) | |
  Maximum Product Subarray | |  |
  Find Minimum in Rotated Sorted Array | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/153-MinSortedArr/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/153-MinSortedArr/Solution.java) | |
  Search in Rotated Sorted Array | | |
  3 Sum |  | |
- Container With Most Water | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/11-ContainerWithMostWater/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/11-ContainerWithMostWater/Solution.java) | |
+ Container With Most Water | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/011-ContainerWithMostWater/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/011-ContainerWithMostWater/Solution.java) | |
 
 ## Binary
 Name | Solutions | Explination
@@ -68,9 +68,9 @@ Name | Solutions | Explinations
  -- | -- | -- |
 Reverse a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Iterative.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Solution.cpp)| |  
 Detect Cycle in a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/141-LinkedListCycle/Solution.py) | | 
-Merge Two Sorted Lists | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/21-MergeTwoSortedLists/Solution.py) | | 
+Merge Two Sorted Lists | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/021-MergeTwoSortedLists/Solution.py) | | 
 Merge K Sorted Lists | | | 
-Remove Nth Node From End Of List &nbsp; &nbsp; &nbsp; | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/19-RemoveNthNodeFromEndofList/Solution.py) | | 
+Remove Nth Node From End Of List &nbsp; &nbsp; &nbsp; | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/019-RemoveNthNodeFromEndofList/Solution.py) | | 
 Reorder List | | | 
 
 ## Matrix
@@ -78,7 +78,7 @@ Name | Solutions | Explinations
  -- | -- | -- |
 Set Matrix Zeroes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| [🐍](https://github.com/BlakeSharp/Blind75/blob/main/73-SetMatrixZeros/Solution.py) | | 
 Spiral Matrix | | | 
-Rotate Image | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/48-RotateImage/Solution.py) | | 
+Rotate Image | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/048-RotateImage/Solution.py) | | 
 Word Search | | | 
 
 ## String
@@ -89,7 +89,7 @@ Longest Repeating Character <br> Replacement | | |
 Minimum Window Substring | | | 
 Valid Anagram | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/242-ValidAnagram/Solution.py) | | 
 Group Anagrams | | | 
-Valid Parentheses | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/20-ValidParentheses/Solution.py)| | 
+Valid Parentheses | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/020-ValidParentheses/Solution.py)| | 
 Valid Palindrome | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/125-ValidPalindrome/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/125-ValidPalindrome/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/125-ValidPalindrome/Solution.cpp)| | 
 Longest Palindromic Substring | | | 
 Palindromic Substrings | | | 
