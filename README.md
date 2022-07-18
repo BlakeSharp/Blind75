@@ -21,7 +21,7 @@ Name | Solutions | Explanation
 Name | Solutions | Explination
  -- | -- | -- |
 Sum of Two Integers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | |
-Number of 1 Bits | | |
+Number of 1 Bits | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.cpp)| |
 Counting Bits | | |
 Missing Number | | |
 Reverse Bits | | |
