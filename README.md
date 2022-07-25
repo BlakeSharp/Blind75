@@ -22,7 +22,7 @@ Name | Solutions | Explination
  -- | -- | -- |
 Sum of Two Integers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | |
 Number of 1 Bits | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.cpp)| |
-Counting Bits | | |
+Counting Bits | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/338-CountingBits/Solution.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/338-CountingBits/Solution.cpp)| |
 Missing Number | | |
 Reverse Bits | | |
 
