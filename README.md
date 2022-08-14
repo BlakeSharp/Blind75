@@ -4,7 +4,7 @@
 My solutions and explanations for the [Blind 75 Problems](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ## Array
-Name | Solutions | Explanation
+Name | Solutions | Explanations
  -- | -- | -- |
  Two Sum | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/001-TwoSum/Solution.cpp) | |
  Best Time to Buy and Sell Stock | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.java) [C++](https://github.com/BlakeSharp/Blind75/blob/main/121-BuySellStock/Solution.cpp) | |
@@ -18,7 +18,7 @@ Name | Solutions | Explanation
  Container With Most Water | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/011-ContainerWithMostWater/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/011-ContainerWithMostWater/Solution.java) | |
 
 ## Binary
-Name | Solutions | Explination
+Name | Solutions | Explanations
  -- | -- | -- |
 Sum of Two Integers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | |
 Number of 1 Bits | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/191-Numberof1Bits/Solution.cpp)| |
@@ -27,7 +27,7 @@ Missing Number | | |
 Reverse Bits | | |
 
 ## Dynamic Programming
-Name | Solutions | Explination
+Name | Solutions | Explanations
  -- | -- | -- |
 Climbing Stairs | | |
 Coin Change | | |
@@ -42,7 +42,7 @@ Unique Paths | | |
 Jump Game | | |
 
 ## Graph
-Name | Solutions | Explination
+Name | Solutions | Explanations
  -- | -- | -- |
 Clone Graph | | |
 Course Schedule | | | 
@@ -55,7 +55,7 @@ Number of Connected <br> Components in an Undirected Graph &nbsp; &nbsp; | | |
 
 
 ## Interval
-Name | Solutions | Explinations
+Name | Solutions | Explanations
  -- | -- | -- |
 Insert Interval | | | 
 Merge Intervals | | | 
@@ -64,7 +64,7 @@ Meeting Rooms  | | |
 Meeting Rooms II  | | | 
 
 ## Linked List
-Name | Solutions | Explinations
+Name | Solutions | Explanations
  -- | -- | -- |
 Reverse a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Iterative.py) [C++](https://github.com/BlakeSharp/Blind75/blob/main/206-ReverseLinkedList/Solution.cpp)| |  
 Detect Cycle in a Linked List | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/141-LinkedListCycle/Solution.py) | | 
@@ -74,7 +74,7 @@ Remove Nth Node From End Of List &nbsp; &nbsp; &nbsp; | [🐍](https://github.co
 Reorder List | | | 
 
 ## Matrix
-Name | Solutions | Explinations
+Name | Solutions | Explanations
  -- | -- | -- |
 Set Matrix Zeroes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| [🐍](https://github.com/BlakeSharp/Blind75/blob/main/73-SetMatrixZeros/Solution.py) | | 
 Spiral Matrix | | | 
@@ -82,7 +82,7 @@ Rotate Image | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/048-Rotate
 Word Search | | | 
 
 ## String
-Name | Solutions | Explinations
+Name | Solutions | Explanations
 -- | -- | -- |
 Longest Substring Without &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Repeating Characters | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/3-LongestNoRepeatingChar/Solution.py) | | 
 Longest Repeating Character <br> Replacement | | | 
@@ -96,7 +96,7 @@ Palindromic Substrings | | |
 Encode and Decode Strings | | | 
 
 ## Tree
-Name | Solutions | Explinations
+Name | Solutions | Explanations
  -- | -- | -- |
 Maximum Depth of Binary Tree | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/104-MaximumDepthBinaryTree/Solution.py) | |  
 Same Tree | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/100-SameTree/Solution.py) | | 
@@ -108,13 +108,13 @@ Subtree of Another Tree | | |
 Construct Binary Tree from Preorder &nbsp; &nbsp; &nbsp; <br> and Inorder Traversal | | | 
 Validate Binary Search Tree | | | 
 Kth Smallest Element in a BST | | | 
-Lowest Common Ancestor of BST | |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.java) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.cpp)|
+Lowest Common Ancestor of BST | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.java) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.cpp)| |
 Implement Trie (Prefix Tree) | | |
 Add and Search Word | | | 
 Word Search II | | | 
 
 ## Heap
-Name | Solutions | Explinations
+Name | Solutions | Explanations
  -- | -- | -- |
 Merge K Sorted Lists | | | 
 Top K Frequent Elements | | | 
