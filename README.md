@@ -98,7 +98,7 @@ Encode and Decode Strings | | |
 ## Tree
 Name | Solutions | Explinations
  -- | -- | -- |
-Maximum Depth of Binary Tree | | |  
+Maximum Depth of Binary Tree | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/104-MaximumDepthBinaryTree/Solution.py) | |  
 Same Tree | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/100-SameTree/Solution.py) | | 
 Invert/Flip Binary Tree | [🐍](https://github.com/BlakeSharp/Blind75/blob/main/226-InvertBinaryTree/Solution.py) | | 
 Binary Tree Maximum Path Sum | | | 
@@ -108,9 +108,8 @@ Subtree of Another Tree | | |
 Construct Binary Tree from Preorder &nbsp; &nbsp; &nbsp; <br> and Inorder Traversal | | | 
 Validate Binary Search Tree | | | 
 Kth Smallest Element in a BST | | | 
-Lowest Common Ancestor of BST | |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/
-Solution.java) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.cpp)| 
-Implement Trie (Prefix Tree) | |     | 
+Lowest Common Ancestor of BST | |[🐍](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.py) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.java) [☕](https://github.com/BlakeSharp/Blind75/blob/main/235-LowestCommonAncestor/Solution.cpp)|
+Implement Trie (Prefix Tree) | | |
 Add and Search Word | | | 
 Word Search II | | | 
 
